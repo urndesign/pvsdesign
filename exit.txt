@@ -1,0 +1,72 @@
+[33mcommit a3febce3ee533548276fc0fc3a7811d511a41c43[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 23:58:45 2015 +0300
+
+    New comments
+
+[33mcommit 405cdf38959f7eb52e24dbd77f14a502dc9b8954[m
+Merge: 8b0924f f386108
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 22:52:48 2015 +0300
+
+    Merge branch 'module-1'
+
+[33mcommit f386108e77807889dbfe54c7c30819ee6017a92c[m
+Merge: 8d2f725 8b0924f
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 22:52:31 2015 +0300
+
+    Merge branch 'master' into module-1
+    
+    # Conflicts:
+    #	add.txt
+
+[33mcommit 8d2f725c3a8282dabe9a530c75f22b1a948aa02e[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 22:48:39 2015 +0300
+
+    переменная
+
+[33mcommit 8b0924f6cf6bd856b37e796ffddb8a88cf661e4d[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 22:47:19 2015 +0300
+
+    изменения в комментариях
+
+[33mcommit 0ddb376f050f93aa0670fc5dee3fe2490be0ab9a[m
+Merge: 4629fd9 91d0a8c
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 14:36:53 2015 +0300
+
+    Merge branch 'add'
+
+[33mcommit 6719550552e6e1a96ab3a1fabecd2a0a2aa7b34a[m
+Merge: 4629fd9 91d0a8c
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 14:36:53 2015 +0300
+
+    Merge branch 'add'
+
+[33mcommit 4629fd9c57ddc438edcb3bc876e53c0065c5bc75[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 14:34:54 2015 +0300
+
+    1
+
+[33mcommit 91d0a8c672b7a088bd79c30fb389d99ba06eec1c[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 14:33:19 2015 +0300
+
+    new par
+
+[33mcommit 36d33b7a4e9c87841527d3d6cf2c9d8b9cbf66ef[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 14:11:41 2015 +0300
+
+    Удаление лишний информации
+
+[33mcommit 07added747c3cb1ad5361de75bedc2f2cbe66e4a[m
+Author: urndesign <urndesign@gmail.com>
+Date:   Thu Oct 8 14:10:02 2015 +0300
+
+    Создание index.php
